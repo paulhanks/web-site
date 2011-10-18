@@ -1,0 +1,69 @@
+html, body {
+    background: url("../images/grassroots_bg.jpg") no-repeat scroll center top #ffffff;
+    color: #6d6e71;
+    font-size: 81.3%;
+    line-height: 1.31em;
+}
+p, h1, h2, h3 {
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+}
+a {
+    color: #ec008c;
+    text-decoration: none;
+}
+.content {
+    padding-top: 90px;
+    position: relative;
+    width: 100%;
+}
+.central-content {
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 82px 30px 30px;
+    position: relative;
+    width: 407px;
+}
+.content h1 {
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+    font-size: 47px;
+	color: #ec008c;
+}
+.content h2 {
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+    font-size: 28px;
+	color: #ec008c;
+}
+.content img {
+    height: 109px;
+    position: absolute;
+    top: -37px;
+    width: 407px;
+}
+.content li {
+    display: block;
+    margin-top: 5px;
+    overflow: hidden;
+}
+.skills, .address, .contact {
+    margin: 20px 0 0;
+}
+.contact {
+    display: block;
+    overflow: hidden;
+}
+.contact p {
+    float: left;
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+    font-size: 1.2em;
+    min-width: 60px;
+	min-height: 20px;
+}
+.address p {
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+    font-size: 0.8em;
+}
+.content p {
+    font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
+}
