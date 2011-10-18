@@ -1,6 +1,6 @@
 html, body {
-    background: url("../images/grassroots_bg.jpg") no-repeat scroll center top #000000;
-    color: #FFFFFF;
+    background: url("../images/grassroots_bg.jpg") no-repeat scroll center top #6d6e71;
+    color: #6d6e71;
     font-size: 81.3%;
     line-height: 1.31em;
 }
@@ -8,7 +8,7 @@ p, h1, h2, h3 {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
 }
 a {
-    color: #FFFFFF;
+    color: #ec008c;
     text-decoration: none;
 }
 .content {
@@ -17,27 +17,29 @@ a {
     width: 100%;
 }
 .central-content {
-    background-color: #ec008c;
-    border-radius: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
-    padding: 40px 30px 30px;
+    padding: 82px 30px 30px;
     position: relative;
     width: 407px;
 }
 .content h1 {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
-    font-size: 48px;
+    font-size: 47px;
+	color: #ec008c;
 }
 .content h2 {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
-    font-size: 24px;
+    font-size: 28px;
+	color: #ec008c;
 }
 .content img {
-    height: 50px;
+    height: 109px;
     position: absolute;
-    top: -17px;
-    width: 50px;
+    top: -37px;
+    width: 407px;
 }
 .content li {
     display: block;
@@ -56,6 +58,7 @@ a {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
     font-size: 1.2em;
     min-width: 60px;
+	min-height: 20px;
 }
 .address p {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
