@@ -17,13 +17,13 @@ a {
     width: 100%;
 }
 .central-content {
-    background-color: #000000;
-    border-radius: 5px 5px 5px 5px;
+    background-color: #ec008c;
+    border-radius: 30px;
     margin-left: auto;
     margin-right: auto;
     padding: 40px 30px 30px;
     position: relative;
-    width: 375px;
+    width: 407px;
 }
 .content h1 {
     font-family: 'Gill Sans',Calibri,'Trebuchet MS',sans-serif;
